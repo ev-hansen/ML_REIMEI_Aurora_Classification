@@ -3,7 +3,7 @@ REIMEI, a Japanese satellite mission, collected a lot of data from the northern 
 
 This is a demo layout of my project.  Most training and  files are not included, as there are too many files and I am not sure I am allowed to share them all publicly. Models are not included because GitHub was giving me code HTTP 500s when I would try to push them.
 
-At the moment, the models seem to have a tough time differentiating between Inverted V and Diffuse types, as shown with the sample ``Inverted_V.png`` file sorted to the Diffuse Guessed folder. This project will help categorize more auroral data correctly, thus allowing there to be more training data for a more sophisticated algorithm, such as a RESNET 50 algorithm.
+At the moment, the models seem to have a tough time differentiating between Inverted V and Diffuse types, as shown with the sample ``Inverted_V.png`` file sorted to the ```./Files/Guessed/Diffuse``` folder. This project will help categorize more auroral data correctly, thus allowing there to be more training data for a more sophisticated algorithm, such as a RESNET 50 algorithm.
 
 So far, this has been developed in summer 2024 @ NASA GSFC and October 2024 @ the Technica hackathon.
 
